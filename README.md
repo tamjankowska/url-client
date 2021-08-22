@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Url shortener
+
+## The server repository for this url shortener can be found [here](https://www.github.com/tamjankowska/url-server/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
